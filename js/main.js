@@ -67,7 +67,7 @@ $(window).on('load', function() {
 		TYPED JS
 	--------------------*/
 	$(".element").typed({
-		strings: ["Cyphus Technologies", "Web Development", "Discord Bot Development", "AI/ML", "Photoshop"],
+		strings: ["Cyphus Technologies", "Web Development", "Applications", "AI/ML", "Photoshop"],
 		typeSpeed: 10,
 		loop:true,
 		backDelay: 2000
